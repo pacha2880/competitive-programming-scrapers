@@ -1,0 +1,276 @@
+Book Shop 32761
+Building Roads 31339
+Restaurant Customers 30170
+Concert Tickets 29394
+Creating Strings 29319
+Stick Lengths 29092
+Apple Division 28617
+Movie Festival 28408
+Message Route 26669
+Building Teams 25165
+Static Range Sum Queries 24509
+Edit Distance 24490
+Money Sums 24432
+Labyrinth 23926
+Array Description 23800
+Towers 22594
+Playlist 22173
+Gray Code 21569
+Collecting Numbers 21530
+Shortest Routes I 21493
+Missing Coin Sum 20845
+Subordinates 20705
+Rectangle Cutting 20434
+Tower of Hanoi 20049
+Round Trip 19956
+Increasing Subsequence 19794
+Subarray Sums I 19287
+Two Sets II 19235
+Dynamic Range Sum Queries 18748
+Static Range Minimum Queries 18157
+Removal Game 17674
+Traffic Lights 17637
+Sum of Three Values 17613
+Range Xor Queries 17510
+Shortest Routes II 17278
+Factory Machines 17268
+Dynamic Range Minimum Queries 17177
+Tree Diameter 17085
+Chessboard and Queens 17015
+Exponentiation 16632
+Subarray Sums II 16438
+Subarray Divisibility 15745
+Tasks and Deadlines 14987
+Counting Divisors 14873
+Nearest Smaller Values 14793
+Array Division 14623
+Course Schedule 14148
+Counting Towers 13865
+Range Update Queries 13812
+Forest Queries 13555
+Projects 13334
+Flight Discount 13088
+Room Allocation 12947
+Monsters 12867
+Tree Distances I 12763
+Josephus Problem I 12488
+Reading Books 11978
+Exponentiation II 11963
+Digit Queries 11770
+Tree Matching 11596
+Company Queries I 11554
+Road Construction 11277
+Sum of Four Values 11068
+Game Routes 10837
+Company Queries II 10795
+Round Trip II 10621
+Road Reparation 10582
+Tree Distances II 10505
+Distance Queries 9943
+Common Divisors 9893
+Hotel Queries 9803
+Sliding Window Median 9619
+High Score 9592
+Flight Routes Check 9544
+Cycle Finding 9464
+Longest Flight Route 9329
+Subarray Distinct Values 9211
+Flight Routes 8989
+Collecting Numbers II 8607
+List Removals 8258
+Elevator Rides 8140
+Investigation 7960
+Movie Festival II 7906
+Planets and Kingdoms 7691
+String Matching 7438
+Subtree Queries 7380
+Maximum Subarray Sum II 7320
+Nested Ranges Check 7067
+Josephus Problem II 7031
+Grid Paths 7021
+Planets Queries I 6800
+Binomial Coefficients 6780
+Sliding Window Cost 6528
+Counting Numbers 6230
+Salary Queries 6167
+Counting Paths 6008
+Path Queries 5858
+Creating Strings II 5751
+Distributing Apples 5607
+Distinct Colors 5566
+Sum of Divisors 5549
+Finding Borders 5507
+Subarray Sum Queries 5108
+Prefix Sum Queries 4979
+Nested Ranges Count 4919
+Fibonacci Numbers 4897
+Point Location Test 4810
+Distinct Values Queries 4764
+Coin Collector 4760
+Counting Tilings 4665
+Hamiltonian Flights 4621
+Finding a Centroid 4595
+Planets Cycles 4364
+Meet in the Middle 4285
+Christmas Party 4284
+Mail Delivery 4102
+Pizzeria Queries 4042
+Prime Multiples 3980
+Range Updates and Sums 3932
+Finding Periods 3835
+Multiplication Table 3764
+Word Combinations 3746
+Divisor Analysis 3647
+Polygon Area 3438
+Forest Queries II 3213
+Download Speed 3186
+Nim Game I 3165
+Teleporters Path 3133
+Giant Pizza 3127
+Bracket Sequences I 2980
+Polynomial Queries 2978
+Josephus Queries 2972
+Advertisement 2929
+Line Segment Intersection 2894
+Longest Palindrome 2817
+School Dance 2723
+Stick Divisions 2697
+Throwing Dice 2647
+Nim Game II 2564
+Planets Queries II 2563
+Counting Bits 2550
+Counting Coprime Pairs 2524
+Police Chase 2472
+Stick Game 2453
+Graph Paths I 2423
+Convex Hull 2352
+Dice Probability 2282
+Hamming Distance 2254
+Graph Girth 2179
+Shortest Subsequence 2161
+De Bruijn Sequence 2159
+Path Queries II 2137
+Range Queries and Copies 2079
+Graph Paths II 2041
+Fixed-Length Paths I 1962
+Minimal Rotation 1874
+Point in Polygon 1827
+Candy Lottery 1809
+Knight's Tour 1795
+Distinct Routes 1773
+Stair Game 1742
+Increasing Array Queries 1736
+Bit Inversions 1685
+Increasing Subsequence II 1668
+Maximum Xor Subarray 1627
+Polygon Lattice Points 1606
+Reachable Nodes 1604
+Beautiful Subgrids 1598
+Acyclic Graph Edges 1561
+Bracket Sequences II 1539
+Maximum Building I 1501
+Counting Necklaces 1465
+Swap Game 1438
+New Roads Queries 1406
+Minimum Euclidean Distance 1379
+Necessary Roads 1373
+Palindrome Queries 1347
+Another Game 1317
+Intersection Points 1305
+Necessary Cities 1278
+Finding Patterns 1198
+Repeating Substring 1196
+Counting Grids 1179
+Course Schedule II 1163
+Bit Problem 1161
+Moving Robots 1156
+Grundy's Game 1143
+Distinct Substrings 1133
+Counting Patterns 1092
+String Functions 1086
+Reachability Queries 1082
+Empty String 1071
+Required Substring 1063
+Cut and Paste 1044
+Xor Pyramid 1025
+Coding Company 1005
+Prüfer Code 997
+Strongly Connected Edges 991
+School Excursion 964
+Pattern Positions 933
+Reversals and Sums 920
+Substring Reversals 918
+Even Outdegree Edges 903
+Subarray Squares 845
+Fixed-Length Paths II 839
+Substring Order I 830
+Monster Game I 819
+Chess Tournament 809
+Tree Traversals 791
+Cyclic Array 775
+Tree Isomorphism I 754
+Area of Rectangles 747
+Monster Game II 735
+Book Shop II 728
+Inverse Inversions 721
+Movie Festival Queries 717
+Substring Distribution 715
+String Removals 707
+Permutation Inversions 706
+Network Renovation 691
+Network Breakdown 675
+Special Substrings 656
+Number Grid 631
+Permutations II 628
+Dynamic Connectivity 628
+Knuth Division 620
+Tree Isomorphism II 615
+Sorting Methods 611
+Apples and Bananas 599
+Inversion Probability 589
+Increasing Array II 571
+Eulerian Subgraphs 565
+One Bit Positions 562
+String Reorder 557
+Writing Numbers 555
+Grid Paths 541
+Pyramid Array 537
+Houses and Schools 536
+Coin Grid 533
+Forbidden Cities 523
+Substring Order II 521
+Signal Processing 519
+Task Assignment 496
+Visiting Cities 489
+Monotone Subsequences 486
+Parcel Delivery 479
+Stack Weights 428
+Counting Sequences 424
+Food Division 396
+Distinct Routes II 386
+Grid Puzzle I 368
+Programmers and Artists 365
+String Transform 353
+List of Sums 333
+Flight Route Requests 329
+Swap Round Sorting 315
+Maximum Building II 312
+Critical Cities 286
+Missing Coin Sum Queries 284
+Creating Offices 284
+Grid Puzzle II 281
+Bit Substrings 258
+Counting Bishops 249
+Reversal Sorting 238
+New Flight Routes 233
+Coin Arrangement 229
+Robot Path 212
+Binary Subsequences 180
+Functional Graph Distribution 158
+Filling Trominos 154
+Removing Digits II 140
+Grid Completion 139
+Counting Reorders 137
+Letter Pair Move Game 128
+Two Stacks Sorting 101
+Grid Path Construction 72
