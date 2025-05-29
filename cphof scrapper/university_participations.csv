@@ -1,107 +1,112 @@
 Country,University Name,University URL,Number of Teams
-ARG,Universidad de Buenos Aires,https://www.cphof.org/university/Universidad%20de%20Buenos%20Aires,8
-ARG,Universidad Tecnológica Nacional - Facultad Regional Santa Fe,https://www.cphof.org/university/Universidad%20Tecnol%C3%B3gica%20Nacional%20-%20Facultad%20Regional%20Santa%20Fe,1
-ARG,Universidad Nacional de Rosario,https://www.cphof.org/university/Universidad%20Nacional%20de%20Rosario,4
 ARG,Universidad Nacional de La Plata,https://www.cphof.org/university/Universidad%20Nacional%20de%20La%20Plata,2
-ARG,Universidad Nacional de Córdoba - FaMAF,https://www.cphof.org/university/Universidad%20Nacional%20de%20C%C3%B3rdoba%20-%20FaMAF,10
-ARG,Universidad Nacional del Sur,https://www.cphof.org/university/Universidad%20Nacional%20del%20Sur,3
+ARG,Universidad Nacional de Rosario,https://www.cphof.org/university/Universidad%20Nacional%20de%20Rosario,6
 ARG,Facultad de Ciencias Exactas-Universidad Nacional de Rosario,https://www.cphof.org/university/Facultad%20de%20Ciencias%20Exactas-Universidad%20Nacional%20de%20Rosario,1
-ARG,Universidad de Buenos Aires - FCEN,https://www.cphof.org/university/Universidad%20de%20Buenos%20Aires%20-%20FCEN,12
-BRA,University of Waterloo,https://www.cphof.org/university/University%20of%20Waterloo,0
-BRA,Universidade Federal do Ceará - Campus Quixadá,https://www.cphof.org/university/Universidade%20Federal%20do%20Cear%C3%A1%20-%20Campus%20Quixad%C3%A1,1
-BRA,Universidade do Estado do Rio de Janeiro,https://www.cphof.org/university/Universidade%20do%20Estado%20do%20Rio%20de%20Janeiro,2
-BRA,Universidade Federal de Sergipe,https://www.cphof.org/university/Universidade%20Federal%20de%20Sergipe,1
-BRA,Federal University of Minas Gerais,https://www.cphof.org/university/Federal%20University%20of%20Minas%20Gerais,1
-BRA,Universidade Federal de Itajubá - Campus Itajubá,https://www.cphof.org/university/Universidade%20Federal%20de%20Itajub%C3%A1%20-%20Campus%20Itajub%C3%A1,1
-BRA,Instituto Tecnológico de Aeronautica,https://www.cphof.org/university/Instituto%20Tecnol%C3%B3gico%20de%20Aeronautica,8
-BRA,Universidade Federal do Paraná,https://www.cphof.org/university/Universidade%20Federal%20do%20Paran%C3%A1,3
-BRA,Instituto de Informática - UFG,https://www.cphof.org/university/Instituto%20de%20Inform%C3%A1tica%20-%20UFG,1
-BRA,University of British Columbia,https://www.cphof.org/university/University%20of%20British%20Columbia,0
-BRA,Universidade Federal de Campina Grande,https://www.cphof.org/university/Universidade%20Federal%20de%20Campina%20Grande,8
-BRA,Universidade Federal da Bahia,https://www.cphof.org/university/Universidade%20Federal%20da%20Bahia,3
-BRA,Institute of Computing - Federal University of Amazonas,https://www.cphof.org/university/Institute%20of%20Computing%20-%20Federal%20University%20of%20Amazonas,1
-BRA,Universidade de São Paulo - Campus de São Carlos,https://www.cphof.org/university/Universidade%20de%20S%C3%A3o%20Paulo%20-%20Campus%20de%20S%C3%A3o%20Carlos,7
-BRA,Universidade Federal do Rio Grande do Norte,https://www.cphof.org/university/Universidade%20Federal%20do%20Rio%20Grande%20do%20Norte,2
-BRA,Institute of Computing - University of Campinas,https://www.cphof.org/university/Institute%20of%20Computing%20-%20University%20of%20Campinas,2
-BRA,Universidade de São Paulo - Escola Politécnica,https://www.cphof.org/university/Universidade%20de%20S%C3%A3o%20Paulo%20-%20Escola%20Polit%C3%A9cnica,3
-BRA,Universidade Federal de Pernambuco,https://www.cphof.org/university/Universidade%20Federal%20de%20Pernambuco,15
-BRA,Universidade Federal de Minas Gerais,https://www.cphof.org/university/Universidade%20Federal%20de%20Minas%20Gerais,3
-BRA,Instituto Militar de Engenharia,https://www.cphof.org/university/Instituto%20Militar%20de%20Engenharia,4
-BRA,Universidade Estadual do Ceará,https://www.cphof.org/university/Universidade%20Estadual%20do%20Cear%C3%A1,1
-BRA,Universidade Federal do Espirito Santo,https://www.cphof.org/university/Universidade%20Federal%20do%20Espirito%20Santo,1
-BRA,Universidade Federal de Santa Catarina,https://www.cphof.org/university/Universidade%20Federal%20de%20Santa%20Catarina,2
-BRA,Universidade de São Paulo,https://www.cphof.org/university/Universidade%20de%20S%C3%A3o%20Paulo,11
-BRA,University of Toronto,https://www.cphof.org/university/University%20of%20Toronto,0
-BRA,Universidade Estadual de Campinas,https://www.cphof.org/university/Universidade%20Estadual%20de%20Campinas,11
-BRA,Universidade Federal do Rio de Janeiro,https://www.cphof.org/university/Universidade%20Federal%20do%20Rio%20de%20Janeiro,3
-BRA,University of Brasilia,https://www.cphof.org/university/University%20of%20Brasilia,2
-BRA,University of São Paulo - Institute of Mathematics and Statistics,https://www.cphof.org/university/University%20of%20S%C3%A3o%20Paulo%20-%20Institute%20of%20Mathematics%20and%20Statistics,3
+ARG,Universidad de Buenos Aires - FCEN,https://www.cphof.org/university/Universidad%20de%20Buenos%20Aires%20-%20FCEN,23
+ARG,Universidad Nacional del Sur,https://www.cphof.org/university/Universidad%20Nacional%20del%20Sur,3
+ARG,Universidad de Buenos Aires,https://www.cphof.org/university/Universidad%20de%20Buenos%20Aires,23
+ARG,Universidad Nacional de Córdoba - FaMAF,https://www.cphof.org/university/Universidad%20Nacional%20de%20C%C3%B3rdoba%20-%20FaMAF,11
+ARG,Universidad Tecnológica Nacional - Facultad Regional Santa Fe,https://www.cphof.org/university/Universidad%20Tecnol%C3%B3gica%20Nacional%20-%20Facultad%20Regional%20Santa%20Fe,3
+BRA,University of Brasilia,https://www.cphof.org/university/University%20of%20Brasilia,3
 BRA,New York University,https://www.cphof.org/university/New%20York%20University,0
-BRA,Universidade de Brasília,https://www.cphof.org/university/Universidade%20de%20Bras%C3%ADlia,2
+BRA,Instituto de Matemática Pura e Aplicada,https://www.cphof.org/university/Instituto%20de%20Matem%C3%A1tica%20Pura%20e%20Aplicada,1
+BRA,Universidade Federal de Pernambuco,https://www.cphof.org/university/Universidade%20Federal%20de%20Pernambuco,16
+BRA,University of Toronto,https://www.cphof.org/university/University%20of%20Toronto,0
+BRA,Instituto Tecnológico de Aeronautica,https://www.cphof.org/university/Instituto%20Tecnol%C3%B3gico%20de%20Aeronautica,9
+BRA,Universidade de Brasília,https://www.cphof.org/university/Universidade%20de%20Bras%C3%ADlia,3
+BRA,Universidade Estadual de Campinas,https://www.cphof.org/university/Universidade%20Estadual%20de%20Campinas,13
+BRA,Universidade Federal do Rio Grande do Norte,https://www.cphof.org/university/Universidade%20Federal%20do%20Rio%20Grande%20do%20Norte,2
+BRA,Universidade Federal de Goiás,https://www.cphof.org/university/Universidade%20Federal%20de%20Goi%C3%A1s,1
+BRA,Universidade Federal de Sergipe,https://www.cphof.org/university/Universidade%20Federal%20de%20Sergipe,1
 BRA,Pontificia Universidade Catolica do Rio de Janeiro,https://www.cphof.org/university/Pontificia%20Universidade%20Catolica%20do%20Rio%20de%20Janeiro,4
-MEX,Benemérita Universidad Autónoma de Puebla,https://www.cphof.org/university/Benem%C3%A9rita%20Universidad%20Aut%C3%B3noma%20de%20Puebla,2
+BRA,Universidade Federal do Paraná,https://www.cphof.org/university/Universidade%20Federal%20do%20Paran%C3%A1,3
+BRA,Universidade Federal do Rio de Janeiro,https://www.cphof.org/university/Universidade%20Federal%20do%20Rio%20de%20Janeiro,6
+BRA,Universidade Federal do Espirito Santo,https://www.cphof.org/university/Universidade%20Federal%20do%20Espirito%20Santo,1
+BRA,Universidade Federal de Campina Grande,https://www.cphof.org/university/Universidade%20Federal%20de%20Campina%20Grande,9
+BRA,Universidade de São Paulo,https://www.cphof.org/university/Universidade%20de%20S%C3%A3o%20Paulo,13
+BRA,Institute of Computing - Federal University of Amazonas,https://www.cphof.org/university/Institute%20of%20Computing%20-%20Federal%20University%20of%20Amazonas,1
+BRA,Universidade do Estado de Santa Catarina,https://www.cphof.org/university/Universidade%20do%20Estado%20de%20Santa%20Catarina,1
+BRA,Universidade Federal de Itajubá - Campus Itajubá,https://www.cphof.org/university/Universidade%20Federal%20de%20Itajub%C3%A1%20-%20Campus%20Itajub%C3%A1,1
+BRA,Universidade de São Paulo - Escola Politécnica,https://www.cphof.org/university/Universidade%20de%20S%C3%A3o%20Paulo%20-%20Escola%20Polit%C3%A9cnica,3
+BRA,Universidade Federal de Santa Catarina,https://www.cphof.org/university/Universidade%20Federal%20de%20Santa%20Catarina,2
+BRA,University of São Paulo - Institute of Mathematics and Statistics,https://www.cphof.org/university/University%20of%20S%C3%A3o%20Paulo%20-%20Institute%20of%20Mathematics%20and%20Statistics,3
+BRA,Universidade Federal do Ceará - Campus Quixadá,https://www.cphof.org/university/Universidade%20Federal%20do%20Cear%C3%A1%20-%20Campus%20Quixad%C3%A1,1
+BRA,Universidade Estadual do Ceará,https://www.cphof.org/university/Universidade%20Estadual%20do%20Cear%C3%A1,1
+BRA,University of Waterloo,https://www.cphof.org/university/University%20of%20Waterloo,0
+BRA,Instituto de Informática - UFG,https://www.cphof.org/university/Instituto%20de%20Inform%C3%A1tica%20-%20UFG,1
+BRA,Universidade Federal da Bahia,https://www.cphof.org/university/Universidade%20Federal%20da%20Bahia,3
+BRA,Institute of Computing - University of Campinas,https://www.cphof.org/university/Institute%20of%20Computing%20-%20University%20of%20Campinas,2
+BRA,Instituto Militar de Engenharia,https://www.cphof.org/university/Instituto%20Militar%20de%20Engenharia,6
+BRA,Universidade Federal de Minas Gerais,https://www.cphof.org/university/Universidade%20Federal%20de%20Minas%20Gerais,5
+BRA,Universidade do Estado do Rio de Janeiro,https://www.cphof.org/university/Universidade%20do%20Estado%20do%20Rio%20de%20Janeiro,2
+BRA,University of British Columbia,https://www.cphof.org/university/University%20of%20British%20Columbia,0
+BRA,Universidade de São Paulo - Campus de São Carlos,https://www.cphof.org/university/Universidade%20de%20S%C3%A3o%20Paulo%20-%20Campus%20de%20S%C3%A3o%20Carlos,9
+BRA,Federal University of Minas Gerais,https://www.cphof.org/university/Federal%20University%20of%20Minas%20Gerais,1
+MEX,Facultad de Ciencias-Universidad Nacional Autónoma de México,https://www.cphof.org/university/Facultad%20de%20Ciencias-Universidad%20Nacional%20Aut%C3%B3noma%20de%20M%C3%A9xico,4
+MEX,Universidad de Guanajuato - CIMAT,https://www.cphof.org/university/Universidad%20de%20Guanajuato%20-%20CIMAT,8
 MEX,Universidad Tecnológica de la Mixteca,https://www.cphof.org/university/Universidad%20Tecnol%C3%B3gica%20de%20la%20Mixteca,5
-MEX,Universidad Autónoma de Nuevo Leon,https://www.cphof.org/university/Universidad%20Aut%C3%B3noma%20de%20Nuevo%20Leon,2
-MEX,ITESM Campus Queretaro,https://www.cphof.org/university/ITESM%20Campus%20Queretaro,2
-MEX,Universidad de Guanajuato,https://www.cphof.org/university/Universidad%20de%20Guanajuato,6
-MEX,ITESM Campus Monterrey,https://www.cphof.org/university/ITESM%20Campus%20Monterrey,9
-MEX,Escuela Superior De Computo Instituto Politecnico Nacional,https://www.cphof.org/university/Escuela%20Superior%20De%20Computo%20Instituto%20Politecnico%20Nacional,6
-MEX,Universidad de Guadalajara,https://www.cphof.org/university/Universidad%20de%20Guadalajara,2
-MEX,Facultad de Ciencias-Universidad Nacional Autónoma de México,https://www.cphof.org/university/Facultad%20de%20Ciencias-Universidad%20Nacional%20Aut%C3%B3noma%20de%20M%C3%A9xico,3
-MEX,Instituto Tecnológico Superior del Sur de Guanajuato,https://www.cphof.org/university/Instituto%20Tecnol%C3%B3gico%20Superior%20del%20Sur%20de%20Guanajuato,2
+MEX,Universidad de Guadalajara,https://www.cphof.org/university/Universidad%20de%20Guadalajara,4
+MEX,Universidad de Guanajuato,https://www.cphof.org/university/Universidad%20de%20Guanajuato,8
 MEX,Universidad Autónoma de Aguascalientes,https://www.cphof.org/university/Universidad%20Aut%C3%B3noma%20de%20Aguascalientes,2
-MEX,Universidad de Guanajuato - CIMAT,https://www.cphof.org/university/Universidad%20de%20Guanajuato%20-%20CIMAT,6
-MEX,Universidad Autónoma de Tlaxcala,https://www.cphof.org/university/Universidad%20Aut%C3%B3noma%20de%20Tlaxcala,1
+MEX,Instituto Tecnológico Superior del Sur de Guanajuato,https://www.cphof.org/university/Instituto%20Tecnol%C3%B3gico%20Superior%20del%20Sur%20de%20Guanajuato,2
+MEX,Universidad Panamericana Campus Bonaterra,https://www.cphof.org/university/Universidad%20Panamericana%20Campus%20Bonaterra,5
+MEX,Instituto Tecnológico Autónomo de México,https://www.cphof.org/university/Instituto%20Tecnol%C3%B3gico%20Aut%C3%B3nomo%20de%20M%C3%A9xico,5
+MEX,Universidad Autónoma de Nuevo Leon,https://www.cphof.org/university/Universidad%20Aut%C3%B3noma%20de%20Nuevo%20Leon,3
 MEX,ITESM Campus Puebla,https://www.cphof.org/university/ITESM%20Campus%20Puebla,1
-MEX,The University of Texas at Austin,https://www.cphof.org/university/The%20University%20of%20Texas%20at%20Austin,0
-MEX,Universidad Panamericana Campus Bonaterra,https://www.cphof.org/university/Universidad%20Panamericana%20Campus%20Bonaterra,4
-MEX,Universidad de Guadalajara CUCEI,https://www.cphof.org/university/Universidad%20de%20Guadalajara%20CUCEI,2
+MEX,Escuela Superior De Computo Instituto Politecnico Nacional,https://www.cphof.org/university/Escuela%20Superior%20De%20Computo%20Instituto%20Politecnico%20Nacional,8
+MEX,Universidad de Guadalajara CUCEI,https://www.cphof.org/university/Universidad%20de%20Guadalajara%20CUCEI,4
 MEX,Instituto Tecnológico de Culiacán,https://www.cphof.org/university/Instituto%20Tecnol%C3%B3gico%20de%20Culiac%C3%A1n,2
-MEX,Instituto Tecnológico Autónomo de México,https://www.cphof.org/university/Instituto%20Tecnol%C3%B3gico%20Aut%C3%B3nomo%20de%20M%C3%A9xico,4
-MEX,Universidad de Guanajuato - DCNE,https://www.cphof.org/university/Universidad%20de%20Guanajuato%20-%20DCNE,6
-CUB,Universidad de las Ciencias Informáticas,https://www.cphof.org/university/Universidad%20de%20las%20Ciencias%20Inform%C3%A1ticas,3
-CUB,Universidad de La Habana,https://www.cphof.org/university/Universidad%20de%20La%20Habana,9
-CUB,"Universidad Central ""Marta Abreu"" de Las Villas",https://www.cphof.org/university/Universidad%20Central%20%22Marta%20Abreu%22%20de%20Las%20Villas,2
+MEX,ITESM Campus Guadalajara,https://www.cphof.org/university/ITESM%20Campus%20Guadalajara,1
+MEX,The University of Texas at Austin,https://www.cphof.org/university/The%20University%20of%20Texas%20at%20Austin,0
+MEX,Universidad de Guanajuato - DCNE,https://www.cphof.org/university/Universidad%20de%20Guanajuato%20-%20DCNE,8
+MEX,ITESM Campus Queretaro,https://www.cphof.org/university/ITESM%20Campus%20Queretaro,2
+MEX,ITESM Campus Monterrey,https://www.cphof.org/university/ITESM%20Campus%20Monterrey,9
+MEX,Universidad Autónoma de Tlaxcala,https://www.cphof.org/university/Universidad%20Aut%C3%B3noma%20de%20Tlaxcala,1
+MEX,Benemérita Universidad Autónoma de Puebla,https://www.cphof.org/university/Benem%C3%A9rita%20Universidad%20Aut%C3%B3noma%20de%20Puebla,2
 CUB,Universidad de Pinar del Río,https://www.cphof.org/university/Universidad%20de%20Pinar%20del%20R%C3%ADo,2
+CUB,Universidad de las Ciencias Informáticas,https://www.cphof.org/university/Universidad%20de%20las%20Ciencias%20Inform%C3%A1ticas,4
 CUB,Universidad de Oriente - Sede Antonio Maceo,https://www.cphof.org/university/Universidad%20de%20Oriente%20-%20Sede%20Antonio%20Maceo,6
-VEN,Universidad Centro Occidental Lisandro Alvarado,https://www.cphof.org/university/Universidad%20Centro%20Occidental%20Lisandro%20Alvarado,2
-VEN,Universidad Simón Bolívar,https://www.cphof.org/university/Universidad%20Sim%C3%B3n%20Bol%C3%ADvar,9
+CUB,Universidad de La Habana,https://www.cphof.org/university/Universidad%20de%20La%20Habana,12
+CUB,"Universidad Central ""Marta Abreu"" de Las Villas",https://www.cphof.org/university/Universidad%20Central%20%22Marta%20Abreu%22%20de%20Las%20Villas,2
 VEN,Universidad Central de Venezuela,https://www.cphof.org/university/Universidad%20Central%20de%20Venezuela,3
-COL,Universidad Icesi,https://www.cphof.org/university/Universidad%20Icesi,1
-COL,Universidad Nacional de Colombia - Bogotá,https://www.cphof.org/university/Universidad%20Nacional%20de%20Colombia%20-%20Bogot%C3%A1,12
-COL,EAFIT University,https://www.cphof.org/university/EAFIT%20University,4
-COL,Universidad Tecnologica de Pereira,https://www.cphof.org/university/Universidad%20Tecnologica%20de%20Pereira,3
-COL,Universidad del Valle,https://www.cphof.org/university/Universidad%20del%20Valle,1
-COL,Universidad Nacional de Colombia,https://www.cphof.org/university/Universidad%20Nacional%20de%20Colombia,12
+VEN,Universidad Centro Occidental Lisandro Alvarado,https://www.cphof.org/university/Universidad%20Centro%20Occidental%20Lisandro%20Alvarado,2
+VEN,Universidad Simón Bolívar,https://www.cphof.org/university/Universidad%20Sim%C3%B3n%20Bol%C3%ADvar,10
+COL,EAFIT University,https://www.cphof.org/university/EAFIT%20University,5
 COL,"Universidad de los Andes, Colombia","https://www.cphof.org/university/Universidad%20de%20los%20Andes,%20Colombia",6
+COL,Universidad del Valle,https://www.cphof.org/university/Universidad%20del%20Valle,1
+COL,Universidad Tecnologica de Pereira,https://www.cphof.org/university/Universidad%20Tecnologica%20de%20Pereira,3
+COL,Universidad Nacional de Colombia - Bogotá,https://www.cphof.org/university/Universidad%20Nacional%20de%20Colombia%20-%20Bogot%C3%A1,12
+COL,Universidad Icesi,https://www.cphof.org/university/Universidad%20Icesi,1
+COL,Universidad Nacional de Colombia,https://www.cphof.org/university/Universidad%20Nacional%20de%20Colombia,12
+CHL,Pontificia Universidad Católica de Chile,https://www.cphof.org/university/Pontificia%20Universidad%20Cat%C3%B3lica%20de%20Chile,2
 CHL,Universidad de Chile,https://www.cphof.org/university/Universidad%20de%20Chile,7
-PER,Universidade de São Paulo - Campus de São Carlos,https://www.cphof.org/university/Universidade%20de%20S%C3%A3o%20Paulo%20-%20Campus%20de%20S%C3%A3o%20Carlos,0
 PER,Universidad Nacional de Ingeniería - FIIS,https://www.cphof.org/university/Universidad%20Nacional%20de%20Ingenier%C3%ADa%20-%20FIIS,2
+PER,Universidad Nacional de Ingeniería - FC,https://www.cphof.org/university/Universidad%20Nacional%20de%20Ingenier%C3%ADa%20-%20FC,3
 PER,Universidad Nacional de Ingeniería,https://www.cphof.org/university/Universidad%20Nacional%20de%20Ingenier%C3%ADa,1
+PER,Universidad Nacional de Ingenieria - FC,https://www.cphof.org/university/Universidad%20Nacional%20de%20Ingenieria%20-%20FC,3
 PER,Pontificia Universidad Católica del Perú - FCI,https://www.cphof.org/university/Pontificia%20Universidad%20Cat%C3%B3lica%20del%20Per%C3%BA%20-%20FCI,5
-PER,Universidad Nacional de Ingenieria - FC,https://www.cphof.org/university/Universidad%20Nacional%20de%20Ingenieria%20-%20FC,2
-PER,Universidad Católica San Pablo,https://www.cphof.org/university/Universidad%20Cat%C3%B3lica%20San%20Pablo,1
-PER,Pontificia Universidad Católica del Perú,https://www.cphof.org/university/Pontificia%20Universidad%20Cat%C3%B3lica%20del%20Per%C3%BA,5
-PER,Universidad Nacional de Ingeniería - FC,https://www.cphof.org/university/Universidad%20Nacional%20de%20Ingenier%C3%ADa%20-%20FC,2
-BOL,Universidad Católica Boliviana - La Paz,https://www.cphof.org/university/Universidad%20Cat%C3%B3lica%20Boliviana%20-%20La%20Paz,1
+PER,Universidad Católica San Pablo,https://www.cphof.org/university/Universidad%20Cat%C3%B3lica%20San%20Pablo,2
+PER,Universidade de São Paulo - Campus de São Carlos,https://www.cphof.org/university/Universidade%20de%20S%C3%A3o%20Paulo%20-%20Campus%20de%20S%C3%A3o%20Carlos,0
+BOL,Universidad Mayor de San Simón,https://www.cphof.org/university/Universidad%20Mayor%20de%20San%20Sim%C3%B3n,3
 BOL,Universidad Privada de Santa Cruz de la Sierra,https://www.cphof.org/university/Universidad%20Privada%20de%20Santa%20Cruz%20de%20la%20Sierra,1
-BOL,Universidad Mayor de San Simón,https://www.cphof.org/university/Universidad%20Mayor%20de%20San%20Sim%C3%B3n,2
+BOL,Universidad Católica Boliviana - La Paz,https://www.cphof.org/university/Universidad%20Cat%C3%B3lica%20Boliviana%20-%20La%20Paz,1
 DOM,Pontificia Universidad Católica Madre y Maestra - Campus Santo Domingo,https://www.cphof.org/university/Pontificia%20Universidad%20Cat%C3%B3lica%20Madre%20y%20Maestra%20-%20Campus%20Santo%20Domingo,1
 DOM,Instituto Tecnológico de Santo Domingo,https://www.cphof.org/university/Instituto%20Tecnol%C3%B3gico%20de%20Santo%20Domingo,2
+CRI,Universidad de Costa Rica,https://www.cphof.org/university/Universidad%20de%20Costa%20Rica,4
+CRI,Instituto Tecnológico de Costa Rica campus Alajuela,https://www.cphof.org/university/Instituto%20Tecnol%C3%B3gico%20de%20Costa%20Rica%20campus%20Alajuela,1
 CRI,Tecnológico de Costa Rica,https://www.cphof.org/university/Tecnol%C3%B3gico%20de%20Costa%20Rica,1
-CRI,Universidad de Costa Rica,https://www.cphof.org/university/Universidad%20de%20Costa%20Rica,3
 
 Country,Total Teams
-ARG,41
-BRA,106
-MEX,67
-CUB,22
-VEN,14
-COL,39
-CHL,7
-PER,18
-BOL,4
+ARG,72
+BRA,127
+MEX,84
+CUB,26
+VEN,15
+COL,40
+CHL,9
+PER,16
+BOL,5
 DOM,3
 SLV,0
-CRI,4
+CRI,6
 ECU,0
