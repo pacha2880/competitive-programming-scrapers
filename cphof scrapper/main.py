@@ -4,7 +4,7 @@ import requests
 from bs4 import BeautifulSoup
 
 duplicates = [
-    ('university/Universidad%20Mayor%20de%20San%20Simon%20-%20Sistemas', 'Universidad Mayor de San Simon - Sistemas'),
+    ('university/Universidad%20Mayor%20de%20San%20Simon%20-%20Sistemas', 'Universidad Mayor de San Simon - Sistemas')
     ('university/Pontificia%20Universidad%20Cat%C3%B3lica%20del%20Per%C3%BA', 'Pontificia Universidad Católica del Perú')
 ]
 
